@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="contact_us_theme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">@color/basic</item>
+    </style>
+
+    <style name="disease_theme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+
+</resources>
